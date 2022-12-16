@@ -59,7 +59,7 @@ st.markdown('''
 </div>''',unsafe_allow_html=True)
 
 
-st.write("Stay still for collecting the images for face registration")
+st.write("App may not work on new versions of browsers as they are required use other protocols like WEBRTC to access webcam feed. sorry for inconvenience")
 
 
 col1, col2, col3 = st.columns(3)
